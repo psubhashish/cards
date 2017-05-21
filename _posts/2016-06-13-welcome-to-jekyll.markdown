@@ -3,25 +3,15 @@ layout: post
 title:  "Kathabhidhana"
 date:   20176-06-21
 categories: jekyll update
-img: http://img.youtube.com/vi/UGMxwPtqDJY/0.jpg
+img: Youtube.jpg
 categories: [one, two]
 ---
-TEST. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+### Kathabhidhana consists of a few Free/Libre and Open Source Software, documentation to learn and use it, and open datasets that you can customize and shape your metadata.
+------------
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+> _Almost half of the 6909 living languages of the world are dying in a century’s time. In India alone, over 220 Indian languages out of the total of 780 languages have died only in last 50 years. With these languages, there dies a wealth of knowledge forever_.
 
-Jekyll also offers powerful support for code snippets:
+Kathabhidhana is an open toolkit—that consists of a few free/libre and open source software, open datasets, methodologies and documentations—to record a large number of words with metadata. It can be used to record pronunciations of words to make a talking dictionary to record phonemes to create a text-to-speech software.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+#### Workflow
+![alt tag](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Workflow_of_Kathabhidhana.svg/900px-Workflow_of_Kathabhidhana.svg.png)
